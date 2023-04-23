@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace BlockchainApp {
-    class Block {
+namespace BlockchainBase {
+    public class Block {
         public int Index { get; set; }
         public DateTime Timestamp { get; set; }
         public string Data { get; set; }
