@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 
 namespace BlockchainBase {
-    public class Blockchain {
+    class Blockchain {
         private List<Block> Chain;
 
         public Blockchain() {

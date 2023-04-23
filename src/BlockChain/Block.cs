@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 
 namespace BlockchainBase {
-    public class Block {
+    class Block {
         public int Index { get; set; }
         public DateTime Timestamp { get; set; }
         public string Data { get; set; }
