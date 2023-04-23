@@ -7,6 +7,7 @@ namespace BlockchainApp {
     class Program {
         public static void introduceGroup () {
             Console.WriteLine("Môn học \t: Cryptography & Complexity");
+            Console.WriteLine("Đề tài \t: Tìm hiểu về BlockChain");
             Console.WriteLine("Giảng viên \t: Nguyễn ĐÌnh Hân");
             Console.WriteLine("Nhóm \t: Nhóm 9");
             Console.WriteLine("Thành viên \t:");
