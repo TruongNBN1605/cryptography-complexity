@@ -1,0 +1,16 @@
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.exe
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.deps.json
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.runtimeconfig.json
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.runtimeconfig.dev.json
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.dll
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\ref\BlockChain.dll
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\bin\Debug\net5.0\BlockChain.pdb
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.csproj.AssemblyReference.cache
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.AssemblyInfoInputs.cache
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.AssemblyInfo.cs
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.csproj.CoreCompileInputs.cache
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.dll
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\ref\BlockChain.dll
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.pdb
+E:\Môn học\Mật mã và Độ phức tạp thuật toán\Code\BlockChain\obj\Debug\net5.0\BlockChain.genruntimeconfig.cache
